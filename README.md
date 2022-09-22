@@ -1,3 +1,4 @@
+# ***🌟Give Star If you find this helpful :)🌟***
 # 1. ***Check for Error***
 ![1 Check for error](https://user-images.githubusercontent.com/81718623/191792488-a6646a31-c6fc-487e-b197-f5091d9179b8.jpg)
 # 2. ***Figure out the Output***
@@ -10,4 +11,4 @@
 ![5 Short data type](https://user-images.githubusercontent.com/81718623/191792641-fb53c4a6-eed9-4391-8772-64b497eaa5c2.jpg)
 # 6. ***Byte***
 ![6 Byte](https://user-images.githubusercontent.com/81718623/191792664-b7ea5c09-2aa8-4a0b-931d-5f3dd1de67de.jpg)
-# ***Give Star If you find this helpful:)***
+# ***🌟Give Star If you find this helpful :)🌟***
